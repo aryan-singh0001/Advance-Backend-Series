@@ -1,0 +1,26 @@
+{
+  "name": "advance-backend-series",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryan-singh0001/Advance-Backend-Series.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aryan-singh0001/Advance-Backend-Series/issues"
+  },
+  "homepage": "https://github.com/aryan-singh0001/Advance-Backend-Series#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
